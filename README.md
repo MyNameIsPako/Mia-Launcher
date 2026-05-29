@@ -22,7 +22,7 @@ App de escritorio oficial de [Mia](https://miadsc.xyz) para gestionar cuentas Ep
 
 ## Soporte
 
-[Discord](https://discord.gg/rAUbXf5xUZ) · [miadsc.xyz](https://miadsc.xyz) · [Bot Mia](https://discord.gg/mia)
+[Discord](https://discord.gg/miabot) · [miadsc.xyz](https://miadsc.xyz) · [Bot Mia](https://discord.gg/miabot)
 
 Bug: versión del launcher, pasos, capturas; con logs de depuración (Ajustes), adjunta **F12 → Console**.
 
