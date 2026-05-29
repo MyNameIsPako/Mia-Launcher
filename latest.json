@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1-alpha",
+  "notes": "Nueva versión de Mia Launcher.",
+  "pub_date": "2026-05-29T02:24:01.604Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1NCVkZHeEJrYmlNcGpGYnNNMWFTdEZFOWY4ZWV6Vzlza0RBdVIyRGtTck1mY1FWY2FubGhKZ3ExZzlEU3hFdzdFTkI2ZFp2a20ydWhSM1k5a2l6MzJzZ3FZT0h1K0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDIxNDI1CWZpbGU6TWlhIExhdW5jaGVyXzAuMS4xLWFscGhhX3g2NC1zZXR1cC5leGUKTXZvejZBcEc3aXdEOVI0VlNINFRyZEtpem5lUllPVjE3eUg4WVU2YlErRHV3dmd4ZHEwcnZ5Q1IzcFQ0WXUwS05KbUVERlo3Y3ZEck5FV25XbTNxREE9PQo=",
+      "url": "https://github.com/MyNameIsPako/Mia-Launcher/releases/download/v0.1.1-alpha/Mia-Launcher_0.1.1-alpha_x64-setup.exe"
+    }
+  }
+}

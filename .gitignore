@@ -1,0 +1,12 @@
+# Repo público de releases: en git solo documentación y el manifest.
+# Los instaladores (.exe) van en GitHub Releases, no en el historial de git.
+
+*.exe
+*.msi
+*.zip
+*.sig
+
+!/.gitignore
+!/README.md
+!/latest.json
+!/docs/**
