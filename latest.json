@@ -1,10 +1,10 @@
 {
   "version": "0.1.1-alpha",
-  "notes": "Nueva versión de Mia Launcher.",
-  "pub_date": "2026-05-29T02:54:33.772Z",
+  "notes": "## Mia Launcher v0.1.1-alpha\n\nNueva versión del launcher oficial de Mia. Incluye mejoras, correcciones y compatibilidad con los servicios actuales del ecosistema.\n\n### Cómo actualizar\n\n- **Usuarios con el launcher instalado:** abre Mia Launcher; el actualizador descargará e instalará esta versión automáticamente.\n- **Instalación nueva:** descarga `Mia-Launcher_0.1.1-alpha_x64-setup.exe` en los assets de esta release y ejecuta el instalador.\n\n### Requisitos\n\n- Windows 10 u 11 (64 bits)\n- Conexión a internet estable\n- Cuenta de Discord (inicio de sesión obligatorio)\n\n### Soporte\n\n- Web: https://miadsc.xyz\n- Discord: https://discord.gg/rAUbXf5xUZ\n\n---\n\n*Mia Launcher no está afiliado a Epic Games. Fortnite es marca registrada de Epic Games, Inc.*",
+  "pub_date": "2026-05-29T03:13:11.946Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1NCVkZHeEJrYm5ZMnpXcmY5VCs1WEJPKy82L09LR3FDZkU4UnZsbTVybERDdlZQSTZ4TnU4aUFsZ2NJVVQwRDFycTRETmo4WUxKRXZoTDAyVWRPNU4yTXFzYTlaRVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDIzMjY1CWZpbGU6TWlhIExhdW5jaGVyXzAuMS4xLWFscGhhX3g2NC1zZXR1cC5leGUKNTVKZllkS1dIdTZuRVNDbnZtQVg1SlVnMG1DRVU4QWwrMC84UDA0VGdzV3BUSUtXRklwRjd1RTQ1OWtsVHozRmRpemUvM2YraGY2bTNVWmhsdEJLQlE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1NCVkZHeEJrYm16elBITklCQ0xhV2x5YnFWVk85WHU1ZUV5NFpZNUo1MlhRbE81QjJRK09iV0VFQ3VZU3hDd2VoRkwyWVBYUVVkek1lRjRQckpadTI5YjNMS2Rsd1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDI0MzgyCWZpbGU6TWlhIExhdW5jaGVyXzAuMS4xLWFscGhhX3g2NC1zZXR1cC5leGUKK3I5THlKRWprOS9BQng3SXN6VUhqTFlTRXhHMzlsemVoUmo2QlRDWklJckVraFNCVGVOMUtqTjJGVWdGci9Sdm5HcjhUYnJRRlozZFA5bjNyMENRQlE9PQo=",
       "url": "https://github.com/MyNameIsPako/Mia-Launcher/releases/download/v0.1.1-alpha/Mia-Launcher_0.1.1-alpha_x64-setup.exe"
     }
   }
