@@ -1,5 +1,7 @@
 # Mia Launcher
 
+![Mia Launcher](assest/mialauncher.png)
+
 App de escritorio oficial de [Mia](https://miadsc.xyz) para gestionar cuentas Epic, consultar Fortnite (BR y STW) y automatizar tareas del bot.
 
 **Descarga:** [Releases](https://github.com/MyNameIsPako/Mia-Launcher/releases) (`Mia-Launcher_*_x64-setup.exe`) o [miadsc.xyz](https://miadsc.xyz)
