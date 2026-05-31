@@ -8,6 +8,7 @@
 Save the World, Battle Royale ve Epic hesapları — [Mia](https://miadsc.xyz) ekosistemiyle entegre.
 
 [![Latest release](https://img.shields.io/github/v/release/MyNameIsPako/Mia-Launcher?label=s%C3%BCr%C3%BCm&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest)
+[![İndirmeler](https://img.shields.io/github/downloads/MyNameIsPako/Mia-Launcher/total?label=indirmeler&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Discord](https://img.shields.io/badge/Topluluk-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/miabot)
 

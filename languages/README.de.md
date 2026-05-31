@@ -8,6 +8,7 @@
 Rette die Welt, Battle Royale und Epic-Konten — integriert im [Mia](https://miadsc.xyz)-Ökosystem.
 
 [![Latest release](https://img.shields.io/github/v/release/MyNameIsPako/Mia-Launcher?label=Version&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MyNameIsPako/Mia-Launcher/total?label=Downloads&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Windows](https://img.shields.io/badge/Plattform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/miabot)
 

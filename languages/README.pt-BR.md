@@ -8,6 +8,7 @@
 Salve o Mundo, Battle Royale e contas Epic — integrado ao ecossistema [Mia](https://miadsc.xyz).
 
 [![Latest release](https://img.shields.io/github/v/release/MyNameIsPako/Mia-Launcher?label=vers%C3%A3o&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MyNameIsPako/Mia-Launcher/total?label=downloads&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Windows](https://img.shields.io/badge/Plataforma-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Discord](https://img.shields.io/badge/Comunidade-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/miabot)
 
