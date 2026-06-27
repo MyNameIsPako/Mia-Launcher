@@ -43,7 +43,7 @@ Mia Launcher es la aplicación de escritorio oficial de Mia para jugadores de Fo
 ## Descarga
 
 - **Plataforma:** Windows 10 u 11 (64 bits)
-- **Instalador:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (sección *Assets* de la última release)
+- **Instalador:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (sección _Assets_ de la última release)
 - **Alternativa:** [miadsc.xyz](https://miadsc.xyz)
 
 <details>
@@ -103,7 +103,7 @@ Español, English, Deutsch, Français, Português (BR) y Türkçe — configurab
 
 Las entradas del menú con candado requieren una cuenta Epic activa.
 
-> Código de apoyo recomendado: **`NotMia`** — también en **Cuenta → SAC**.
+> Apoya a Mia haciéndote **Premium** en [miadsc.xyz/es/premium](https://miadsc.xyz/es/premium).
 
 ---
 
@@ -112,7 +112,7 @@ Las entradas del menú con candado requieren una cuenta Epic activa.
 - **Discord:** [discord.gg/miabot](https://discord.gg/miabot)
 - **Web:** [miadsc.xyz](https://miadsc.xyz)
 
-**Reportar un bug:** indica versión del launcher, pasos para reproducirlo y capturas. Con logs de depuración activados (*Ajustes*), adjunta la salida de **F12 → Console**.
+**Reportar un bug:** indica versión del launcher, pasos para reproducirlo y capturas. Con logs de depuración activados (_Ajustes_), adjunta la salida de **F12 → Console**.
 
 ---
 

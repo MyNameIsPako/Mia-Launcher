@@ -43,7 +43,7 @@ Mia Launcher é o aplicativo desktop oficial da Mia para jogadores de Fortnite. 
 ## Download
 
 - **Plataforma:** Windows 10 ou 11 (64 bits)
-- **Instalador:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (seção *Assets* da release mais recente)
+- **Instalador:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (seção _Assets_ da release mais recente)
 - **Alternativa:** [miadsc.xyz](https://miadsc.xyz)
 
 <details>
@@ -103,7 +103,7 @@ Espanhol, inglês, alemão, francês, português (BR) e turco — configurável 
 
 Itens do menu com cadeado exigem uma conta Epic ativa.
 
-> Código de apoiador recomendado: **`NotMia`** — também em **Conta → SAC**.
+> Apoie a Mia tornando-se **Premium** em [miadsc.xyz/es/premium](https://miadsc.xyz/es/premium).
 
 ---
 
@@ -112,7 +112,7 @@ Itens do menu com cadeado exigem uma conta Epic ativa.
 - **Discord:** [discord.gg/miabot](https://discord.gg/miabot)
 - **Site:** [miadsc.xyz](https://miadsc.xyz)
 
-**Reportar bug:** informe a versão do launcher, passos para reproduzir e capturas. Com logs de depuração ativados (*Configurações*), anexe também a saída de **F12 → Console**.
+**Reportar bug:** informe a versão do launcher, passos para reproduzir e capturas. Com logs de depuração ativados (_Configurações_), anexe também a saída de **F12 → Console**.
 
 ---
 

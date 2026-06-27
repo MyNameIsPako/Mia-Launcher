@@ -43,7 +43,7 @@ Mia Launcher, Fortnite oyuncuları için Mia'nın resmi masaüstü uygulamasıd�
 ## İndirme
 
 - **Platform:** Windows 10 veya 11 (64 bit)
-- **Yükleyici:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (en son sürümün *Assets* bölümü)
+- **Yükleyici:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (en son sürümün _Assets_ bölümü)
 - **Alternatif:** [miadsc.xyz](https://miadsc.xyz)
 
 <details>
@@ -103,7 +103,7 @@ Oyuncu arama, MCP konsolu, Epic kütüphanesi ve oyun kurulumu.
 
 Kilit simgeli menü öğeleri aktif bir Epic hesabı gerektirir.
 
-> Önerilen destek kodu: **`NotMia`** — **Hesap → SAC** bölümünde de mevcut.
+> Mia'yı [miadsc.xyz/es/premium](https://miadsc.xyz/es/premium) adresinden **Premium** olarak destekle.
 
 ---
 
@@ -112,7 +112,7 @@ Kilit simgeli menü öğeleri aktif bir Epic hesabı gerektirir.
 - **Discord:** [discord.gg/miabot](https://discord.gg/miabot)
 - **Site:** [miadsc.xyz](https://miadsc.xyz)
 
-**Hata bildirimi:** launcher sürümü, yeniden oluşturma adımları ve ekran görüntüleri ekle. Hata ayıklama günlükleri açıksa (*Ayarlar*), **F12 → Console** çıktısını da ekle.
+**Hata bildirimi:** launcher sürümü, yeniden oluşturma adımları ve ekran görüntüleri ekle. Hata ayıklama günlükleri açıksa (_Ayarlar_), **F12 → Console** çıktısını da ekle.
 
 ---
 
