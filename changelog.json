@@ -1,0 +1,497 @@
+{
+  "entries": [
+    {
+      "version": "0.1.27",
+      "date": "2026-08-31",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Panel Admin: consulta los códigos activos del panel de administrador (LobbyHack), añádelos a la cola y canjéalos en una cuenta o en bulk (Premium).",
+            "Héroes STW: mira tu taquilla de héroes con filtros por clase, nivel y favoritos, igual que en Discord.",
+            "Esquemas STW: revisa armas y trampas de tu taquilla, con familias (lanzadores, asalto, escopetas, SMG, francotiradores, melee…) y subfiltros de trampas (suelo, pared, techo).",
+            "Dupe STW: automatiza el dupe en base bug con cuenta, cuenta atrás y opción de forzar sin esperar al timer.",
+            "Cabecera: botón para iniciar o detener Fortnite sin ir a la biblioteca.",
+            "Cabecera: indicador del estado de Discord RPC (conectado, esperando Discord o desactivado).",
+            "Si tienes Cheat Engine u otras herramientas de trampas abiertas, el launcher te avisa para que las cierres."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Español (Latam): corregidos números y fechas que dejaban de funcionar en V-Bucks, tienda, Mia Checker y otras pantallas.",
+            "Panel Admin: iconos de recompensa, fechas legibles y mensajes de estado iguales que en el bot de Mia.",
+            "Dupe STW: la sesión sigue activa aunque cambies de página en el launcher."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.26",
+      "date": "2026-08-21",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Espíritus BR: puedes filtrar por temporada actual o temporadas pasadas.",
+            "Espíritus BR: en temporada actual ves Base, Dorado y Cheat Master; en las pasadas, las variantes de antes (Gomoso, Galaxia, Holofoil, Cubo, Gema, Quack…).",
+            "Espíritus BR: si abres tu colección desde Discord en la web, tu progreso se guarda en el tracker.",
+            "Web de espíritus: interfaz renovada, con los mismos filtros de temporada y variantes."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Espíritus BR: los espíritus y variantes nuevos aparecen solos cuando salen en el juego.",
+            "Espíritus BR: se ve mejor qué tienes en la temporada actual y en las anteriores."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.25",
+      "date": "2026-07-31",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Espíritus BR: nuevas familias Ironmouse, John Wick, Llama y Peely, con sus variantes.",
+            "Espíritus BR: puedes filtrar y agrupar también por Gema y Quack."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Espíritus BR: la lista coincide con la de Discord y la web, incluidas las colaboraciones nuevas."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.24",
+      "date": "2026-07-29",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Espíritus BR: mira tu colección por cuenta, filtra por búsqueda, variante o estado, oculta los masterizados, agrupa, exporta o copia la imagen y ábrela en la web.",
+            "Builds de la comunidad: explora loadouts de STW compartidos, ordénalos por top o recientes, míralos en detalle y clónalos a tu cuenta.",
+            "Check de alertas: comprueba qué alertas de misiones STW has completado hoy, en una cuenta o en varias a la vez.",
+            "Si Epic cierra tu sesión o cambias la contraseña, la cuenta se quita del launcher y te avisamos para volver a entrar."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Tienda BR: filtros para ruedas, coches, instrumentos y ofertas por región, con indicador de región en las cards."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.23",
+      "date": "2026-07-13",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Macro Recorder: pulsa F3 para empezar o parar la grabación sin hacer clic (así no se graba el botón Detener).",
+            "Tus datos se guardan de forma más segura; si algo se corrompe hay copia de respaldo, y se guarda al cerrar, salir de la bandeja, actualizar o añadir una cuenta.",
+            "Al cerrar o minimizar a la bandeja, el launcher guarda antes de salir."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.22",
+      "date": "2026-06-20",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Las imágenes de alertas STW, taquilla BR e inventario STW llevan el mismo pie: «Apoya a Mia haciéndote Premium en miadsc.xyz/es/premium».",
+            "Ese pie está traducido a todos los idiomas del launcher.",
+            "Quitadas las menciones al código de creador MiaReborn en esos pies de imagen."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.21",
+      "date": "2026-06-16",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "BlackList de Mia también en el launcher.",
+            "Tienda BR: pestañas Filtraciones (cosméticos nuevos) y Secciones.",
+            "Cloud Storage BR: lista, descarga, sube, elimina y copia archivos entre cuentas.",
+            "Créditos del launcher en la barra lateral, con enlaces a Discord, GitHub y web.",
+            "En Ajustes → Avanzado puedes recargar el launcher sin cerrarlo."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "TaxiBots: se unen bien al grupo.",
+            "Tu sesión de Discord se mantiene unos días al cerrar y reabrir el launcher.",
+            "Filtraciones: misma búsqueda y filtros que en la tienda principal.",
+            "Popup de créditos más compacto, @ que abre el perfil de Discord y tooltips en los enlaces."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.19",
+      "date": "2026-06-10",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Discord Rich Presence: al cambiar de página se actualiza con la sección en la que estás y un enlace a miadsc.xyz.",
+            "Notificaciones del sistema al reclamar con AutoKick y cuando hay alertas STW nuevas del día."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Servicio taxi: deja el grupo al empezar la misión, ignora invitaciones si está ocupado, no acepta a otros taxis y recuerda nivel de poder y autoaceptar amigos.",
+            "Macro Recorder: no graba los clics de Iniciar/Detener y el estado de reproducción se actualiza bien aunque el launcher esté en otro monitor.",
+            "Recompensas (AutoKick, historial, llamas): iconos más claros para héroes, armas, supervivientes y materiales.",
+            "Auto reciclar: detecta el botín al reclamar y lo recicla bien tras AutoKick."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "AutoKick: ya no dice que falló la expulsión cuando en realidad ya saliste del grupo.",
+            "Auto reciclar: vuelve a funcionar tras reclamar recompensas.",
+            "Rich Presence: sin texto duplicado «Mia Launcher»; por defecto se ve la URL del sitio."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.18",
+      "date": "2026-06-05",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Responder: vuelve a abrir la terminal correctamente.",
+            "AutoKick: vuelve a funcionar tras añadir el auto reciclado de objetos."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.17",
+      "date": "2026-06-05",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Cofres de misión STW: mira los pendientes, abre uno o todos (de 10 en 10), recicla el botín según tu configuración y mira el registro de actividad.",
+            "Auto reciclar: página propia para activarlo por rareza (aparte de AutoKick), con vista previa y opción de aplicar la misma config a todas las cuentas; también en MK, llamas, tienda STW y AutoKick.",
+            "En Configuración → General puedes hacer que el launcher arranque con Windows (activado por defecto)."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Cofres de misión: descripción más clara, sin mencionar comandos de Discord.",
+            "Auto reciclar: la vista previa de rarezas ya no se duplica.",
+            "Cofres de misión: el registro de actividad tiene su propio título en esa página.",
+            "Amigos: mensajes más claros al agregar o aceptar (usuario no existe, ya es amigo, solicitud ya enviada, etc.)."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Macro Recorder: en la segunda vuelta de un bucle ya se respetan las esperas entre pasos.",
+            "Macro Recorder: Detener ya no congela el launcher en pausas largas; responde al momento.",
+            "Macro Recorder: al volver a reproducir no se solapan dos reproducciones.",
+            "Amigos: agregar o aceptar ya no falla con error raro de Epic.",
+            "Amigos: la búsqueda por nombre exacto encuentra bien a la persona correcta.",
+            "Alertas de misiones: título corregido en español («Alertas de misiones»).",
+            "Alertas de misiones: al cambiar el día se actualiza solo el mapa; ya no te quedas con el del día anterior.",
+            "Menú de cuentas: al pulsar la fila se abre el gestor como toca.",
+            "Menú de cuentas: el diálogo abre y cierra bien.",
+            "Menú de cuentas: los números de cuenta (#1, #2…) se ven bien.",
+            "Sidebar: el selector de cuentas ya no queda tapado por otros elementos.",
+            "Auto reciclar: el filtro de rarezas vuelve a funcionar.",
+            "Al reclamar con AutoKick se detectan bien los cofres de misión pendientes.",
+            "Reclamar y cofres: ya no se confunden otros objetos del inventario con cofres."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.16",
+      "date": "2026-06-02",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Alertas de misiones: la imagen descargada usa el idioma del launcher (título, columnas, categorías, pie y nombres) en los 11 idiomas."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.15",
+      "date": "2026-06-02",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Alertas de misiones: la descarga de imagen ya no sale con tarjetas superpuestas ni el layout roto."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.14",
+      "date": "2026-06-02",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Hotkey Overlay: atajos globales en Fortnite (FastDrop, STW y más) con calibrador de coordenadas en pantalla.",
+            "Macro Recorder: graba, edita y reproduce macros (app de escritorio Windows).",
+            "AutoKick: registro en vivo de conexión, misiones, recompensas y reinvites.",
+            "Menú lateral: categoría Herramientas con Macro Recorder, Auto Responder y Hotkey Overlay.",
+            "Auto Responder pasa a Herramientas.",
+            "Nuevos idiomas: japonés, chino simplificado, italiano, portugués (Portugal) y español (Latam), con banderas en Ajustes."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Traducciones ampliadas y revisadas en todos los idiomas del launcher.",
+            "Tienda STW y pantallas relacionadas: mejores etiquetas y soporte multiidioma."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.13",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Registro de misiones: ya no falla al cargar las traducciones."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.12",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Discord: ya no aparece el nombre Mia Launcher duplicado en tu actividad.",
+            "Discord: la actividad muestra SAC: «NotMia» con avatar de Mia y botones a Discord y miadsc.xyz."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.11",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Discord: tu actividad vuelve a mostrar Mia Launcher con avatar, miadsc.xyz | .gg/miabot y botones a Discord y la web.",
+            "Discord: si cierras o reinicias Discord, el launcher intenta reconectar la actividad solo."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.10",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "En miadsc.xyz la página del launcher muestra la misma versión en descarga, novedades y portada."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Discord: tu actividad vuelve a mostrar Mia Launcher con enlace a miadsc.xyz y botones a Discord y la web."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.9",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "En miadsc.xyz la página del launcher muestra la misma versión en descarga, novedades y portada."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Discord: tu actividad vuelve a mostrar Mia Launcher con enlace a miadsc.xyz y botones a Discord y la web."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.8",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Discord Rich Presence: actividad unificada como Mia Launcher (nombre y avatar)."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Registro de misiones: carga bien el perfil STW y ya no dice «sin misiones» cuando sí las tienes.",
+            "Registro de misiones: mensajes más claros (EULA pendiente, sesión caducada, cuenta sin STW o Epic no disponible)."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.7",
+      "date": "2026-05-30",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Registro de cambios: mira las novedades de cada versión desde el header (también al actualizar).",
+            "Auth y gestión: exchange code, access token, device auth, EULA y web de Epic en un solo sitio.",
+            "Cuentas: importa y exporta en JSON desde el selector del menú.",
+            "Homebase: escudos antitormentas, nivel SSD, oleada de Resistencias, amplificadores, permisos de edición y escaneo de trampas y estructuras.",
+            "MiaTaxi's: flota oficial de taxibots, filtro por estado, añadir amigos e invitar al grupo.",
+            "Auto Responder: genera, activa y abre el proxy con Files de Mia ya listo.",
+            "Files de Mia: genera y descarga los JSON de parches y configuración desde Auto Responder.",
+            "Tienda STW: al comprar llamas ves el botín recibido agrupado.",
+            "Llamas STW: abre vouchers y piñatas del inventario (hasta 10 a la vez) con registro de actividad.",
+            "Parches de juego: Dev Builds, Dev Stairs, Air Strike, FOV, trampas y B.A.S.E.",
+            "Registro de misiones: diarias, semanales, zonas, eventos, logros y más, con progreso y recompensas.",
+            "Registro de misiones: reemplaza diarias y mira cuántos reemplazos te quedan (diarios y MSK por separado).",
+            "Tienda STW: sección Llamas (X-Ray y evento), filtros y compra de toda la rotación (Premium).",
+            "Grupos: invitar, unirse, ascender líder, privacidad, reparar invitaciones y abandonar."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Ventana redimensionable, con maximizar y restaurar en el header.",
+            "Inicio de sesión: el launcher se ve de fondo y los errores son más claros.",
+            "Homebase: niveles SSD más fiables.",
+            "Tienda STW: comprar llamas es más fiable y el inventario se actualiza mejor.",
+            "Botín y recompensas: nombres e iconos más correctos (monedas, vouchers, héroes, supervivientes).",
+            "AutoKick e historial: iconos de recompensas más coherentes.",
+            "Etiquetas STW: mejores nombres de trampas.",
+            "En Ajustes, el selector de cuentas respeta el orden del menú lateral.",
+            "Más traducciones para Homebase, botín, MiaTaxi's, Files, auth y grupos.",
+            "Más traducciones para Llamas STW y Registro de misiones.",
+            "Registro de misiones: nombres de zonas en español (Bosque Pedregoso, Villatablón, etc.).",
+            "Registro de misiones: mejores imágenes de respaldo en misiones del pase, Rey Mítico y desafíos.",
+            "Registro de misiones: botón de reemplazar más compacto; reemplazar MSK semanal pide Premium de Mia.",
+            "Parches de juego: elige o detecta la carpeta de Fortnite antes de activarlos."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "AutoKick: al quitar una cuenta con la papelera deja de vigilar misiones de verdad.",
+            "Auto Responder: arranca bien aunque la ruta de instalación tenga espacios.",
+            "Homebase: sin doble flecha en acordeones; nombre del escudo de Bosque Pedregoso; «Resistencias» en español.",
+            "Tienda STW: puedes cambiar de cuenta sin que vuelva a la del menú.",
+            "Tienda STW: icono de tickets X-Ray y botín tras comprar llamas corregidos.",
+            "Tienda STW: nombres e imágenes del botín corregidos.",
+            "Tienda STW: límites de compra y saldo de oro/tickets al elegir cuenta.",
+            "Registro de misiones: menos misiones en inglés o sin imagen; ahora salen traducidas con banner."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.6",
+      "date": "2026-05-29",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Potenciadores STW: mira el inventario, canjea los tuyos y envía potenciadores de amigo a otro jugador.",
+            "Potenciadores: pestañas Enviar y Canjear; al elegir cuenta se cargan nivel, XP potenciado e inventario.",
+            "Potenciadores: busca jugadores por nombre con sugerencias y ve el perfil antes de enviar."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Buscar jugadores por nombre es más fiable en Potenciadores y otras pantallas.",
+            "Lookup: búsqueda más simple; usa la cuenta principal del menú y ya no pide elegir cuenta antes."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Potenciadores: Canjear ya no se bloquea mientras buscas un jugador en la otra pestaña.",
+            "Potenciadores: al elegir un jugador se ve bien su perfil.",
+            "Potenciadores: el inventario cuenta bien si tienes varios montones del mismo potenciador.",
+            "El botón X del header vuelve a cerrar o minimizar a la bandeja."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.5",
+      "date": "2026-05-29",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Mia Checker: informe de cuenta con perfil, compras, actividad, temporadas, locker y Salvar el Mundo.",
+            "Mia Checker: últimas transacciones, amigos de Epic, mensaje de venta y exportar a PDF (por sección o todo).",
+            "Menú lateral por áreas: Salvar el Mundo, Battle Royale, Amigos, Juegos, Auto Responder y Cuenta.",
+            "Personaliza el menú con el candado: reordena, mueve entradas y oculta lo que no uses.",
+            "Grupos: pestaña AutoKick para expulsar, reclamar, transferir materiales e invitar por cuenta.",
+            "Grupos: acciones rápidas (expulsar, expulsar y recolectar, expulsar a todos con recompensas, etc.).",
+            "Tienda STW: cantidad máxima, compra de toda la rotación, cuenta atrás semanal y barra mejorada.",
+            "Bandeja del sistema: minimiza y vuelve a abrir desde el icono.",
+            "Lookup: busca por nombre o ID y mira perfil STW, recursos y loadouts públicos.",
+            "AutoKick: historial de recompensas en el header, como las notificaciones.",
+            "AutoKick: el historial y el resumen se guardan durante el día y se reinician a medianoche."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Mia Checker: secciones plegables, tarjetas más claras y botones para expandir o contraer todo.",
+            "El orden del menú se guarda al salir del modo edición.",
+            "Orden por defecto del menú: Salvar el Mundo → Battle Royale → Amigos → Juegos → Auto Responder → Cuenta.",
+            "En Android, Descargas y Auto Responder avisan de que son solo para PC (Windows).",
+            "AutoKick y Grupos comparten la misma configuración de cuentas."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Editar el menú lateral es más estable al reordenar.",
+            "Cerrar a la bandeja no cierra del todo la app; desde el icono o una nueva instancia vuelve a abrirse."
+          ]
+        }
+      ]
+    }
+  ]
+}
