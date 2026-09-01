@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.29",
+      "date": "2026-09-01",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Personalización: el fondo de imagen (archivo o URL) se muestra correctamente en la vista previa y en el launcher."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.28",
       "date": "2026-09-01",
       "sections": [
@@ -17,12 +29,6 @@
             "Tema Claro: los textos del launcher se ven en oscuro para que se lean bien.",
             "Discord RPC: muestra el nombre de la pestaña en tu idioma (por ejemplo Ajustes), no la ruta técnica.",
             "Misiones diarias: índice y filas más claros, con iconos de diarias y V-Bucks."
-          ]
-        },
-        {
-          "title": "Correcciones",
-          "items": [
-            "Personalización: el fondo de imagen (archivo o URL) vuelve a mostrarse correctamente en la vista previa y en el launcher."
           ]
         }
       ]
