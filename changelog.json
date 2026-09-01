@@ -18,6 +18,12 @@
             "Discord RPC: muestra el nombre de la pestaña en tu idioma (por ejemplo Ajustes), no la ruta técnica.",
             "Misiones diarias: índice y filas más claros, con iconos de diarias y V-Bucks."
           ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Personalización: el fondo de imagen (archivo o URL) vuelve a mostrarse correctamente en la vista previa y en el launcher."
+          ]
         }
       ]
     },
