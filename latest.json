@@ -1,11 +1,11 @@
 {
-  "version": "0.1.30",
-  "notes": "## Mia Launcher v0.1.30\n\n_2026-09-01_\n\n### Correcciones\n\n- Personalización: el fondo de imagen funciona en la versión instalada (archivos locales y URLs HTTPS), no solo en desarrollo.\n\n### Cómo actualizar\n\n- **Usuarios con el launcher instalado:** abre Mia Launcher; el actualizador descargará e instalará esta versión automáticamente.\n- **Instalación nueva:** descarga `Mia-Launcher_0.1.30_x64-setup.exe` en los assets de esta release y ejecuta el instalador.\n\n### Requisitos\n\n- Windows 10 u 11 (64 bits)\n- Conexión a internet estable\n- Cuenta de Discord (inicio de sesión obligatorio)\n\n### Soporte\n\n- Web: https://miadsc.xyz\n- Discord: https://discord.gg/miabot\n\n---\n\n*Mia Launcher no está afiliado a Epic Games. Fortnite es marca registrada de Epic Games, Inc.*",
-  "pub_date": "2026-09-01T04:45:19.597Z",
+  "version": "0.1.31",
+  "notes": "## Mia Launcher v0.1.31\n\n_2026-09-01_\n\n### Correcciones\n\n- Personalización: el fondo por URL o archivo funciona en la versión instalada; las URLs se descargan localmente (p. ej. Twitter, Imgur).\n\n### Cómo actualizar\n\n- **Usuarios con el launcher instalado:** abre Mia Launcher; el actualizador descargará e instalará esta versión automáticamente.\n- **Instalación nueva:** descarga `Mia-Launcher_0.1.31_x64-setup.exe` en los assets de esta release y ejecuta el instalador.\n\n### Requisitos\n\n- Windows 10 u 11 (64 bits)\n- Conexión a internet estable\n- Cuenta de Discord (inicio de sesión obligatorio)\n\n### Soporte\n\n- Web: https://miadsc.xyz\n- Discord: https://discord.gg/miabot\n\n---\n\n*Mia Launcher no está afiliado a Epic Games. Fortnite es marca registrada de Epic Games, Inc.*",
+  "pub_date": "2026-09-01T05:04:06.226Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1NCVkZHeEJrYm5zMFpMcEUyU01jZFh3TWtjclVtSnpUVUxrK3J5SExVcnVLaFovSGtldStyaXVyVHlNTlhhRXY0ZU1lUlp6R1FxTDR5MURjYWIzRG04Z1E3RDIvUVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjM3OTA0CWZpbGU6TWlhIExhdW5jaGVyXzAuMS4zMF94NjQtc2V0dXAuZXhlCk8xTkpoRjRYUEtINDdqb2MyK0FIY0pyZktjT0tlcWs4V2l6UU5od2dEOU5WYVhCWEJEU0xodU1YVmtiMlU5ci9WVktNTVpVWGRYM2cvTFBrS2RueEF3PT0K",
-      "url": "https://github.com/MyNameIsPako/Mia-Launcher/releases/download/v0.1.30/Mia-Launcher_0.1.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1NCVkZHeEJrYnJNbzdNVEpWMGd6UnNndHB5d0NnNmtYUUdQWG5LK29pNUU5MkUrUGtKNndseUQ4TUZkV1puUTk0QlBXem1sTW9FOEp6bENmdXpCa1hxWHRxb3M4NncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjM5MDMxCWZpbGU6TWlhIExhdW5jaGVyXzAuMS4zMV94NjQtc2V0dXAuZXhlCmNVb3R5T3QzZDVxSkJPeW5jVEdTN3dXb2gvdDY0c0JpNTRHR0dkOHVuSHFNRzBRODBxSE9LTTFFWFJqcy9HMENOTkVqcFF0eTh4Q0xKRkowekNlckNRPT0K",
+      "url": "https://github.com/MyNameIsPako/Mia-Launcher/releases/download/v0.1.31/Mia-Launcher_0.1.31_x64-setup.exe"
     }
   }
 }
