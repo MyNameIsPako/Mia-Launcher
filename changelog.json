@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.30",
+      "date": "2026-09-01",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Personalización: el fondo de imagen funciona en la versión instalada (archivos locales y URLs HTTPS), no solo en desarrollo."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.29",
       "date": "2026-09-01",
       "sections": [
