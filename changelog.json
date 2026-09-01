@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.31",
+      "date": "2026-09-01",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Personalización: el fondo por URL o archivo funciona en la versión instalada; las URLs se descargan localmente (p. ej. Twitter, Imgur)."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.30",
       "date": "2026-09-01",
       "sections": [
