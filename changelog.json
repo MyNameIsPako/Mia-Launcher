@@ -1,6 +1,52 @@
 {
   "entries": [
     {
+      "version": "0.1.32",
+      "date": "2026-09-22",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Auto Expediciones: envía, consulta y recolecta expediciones STW por cuenta; con Premium puedes dejar el auto 24/7 en la nube.",
+            "Resistencias AFK: ciclo automático de Resistencias en Cumbres Leñosas, con calibración de botones en pantalla (BETA).",
+            "World Editor: carga el world-info del día o un JSON, edita tipos de misión y recompensas, aplica acciones tipo archivos Mia (dupe, quitar mods, PWO…) y guarda el archivo para Auto Responder; Premium puede personalizar la marca de agua.",
+            "Libro de colección: calcula recursos y mejora o evoluciona ítems del libro por categoría hasta el nivel que elijas, con iconos en cada ítem.",
+            "Homebase: mapa 3D del escudo antitormentas (BETA) con trampas por icono y rareza, pistas de colocación estilo Penny, inspector lateral colapsable y exportar o copiar la vista.",
+            "Historial de recompensas: además de AutoKick, resumen diario de Auto Expediciones y Auto Reciclar.",
+            "Configuraciones → Notificaciones: elige avisos en el launcher y/o webhook de Discord, con envío de prueba.",
+            "Configuraciones: descarga el pack de imágenes de Mia (iconos STW y sprites) con tamaño y progreso para usarlas en local.",
+            "Cabecera: indicador del estado de los servidores de Fortnite; al pulsar abre Estado del servidor.",
+            "Alertas STW: Hora de poder con la clase destacada, cuenta atrás y estado (activa o próxima).",
+            "Alertas STW: supercarga semanal (héroe, superviviente, trampa o arma) con cuenta atrás hasta el reinicio.",
+            "Alertas STW: al pulsar una misión ves el detalle a la derecha (guid, zona, modificadores y recompensas).",
+            "Inicio: resumen de las mejores alertas del día por categorías, con totales de V-Bucks, evo y más.",
+            "Cuenta (Auth Hub): info de cuenta como en Discord `/cuenta info`, más pestañas de enlaces y transacciones.",
+            "Tienda STW: en las llamas puedes ver el contenido completo antes de comprar."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Menú: Automatizaciones reúne AutoKick, Auto Expediciones, auto loadouts y Auto Reciclar en una sola página.",
+            "Menú: Herramientas unifica Macro Recorder, Auto Responder, Hotkey Overlay, World Editor y Resistencias AFK.",
+            "Menú: Perfil STW agrupa Inventario, Esquemas, Héroes y Homebase; Misiones agrupa diarias, registro y MSK.",
+            "Menú: Economía (V-Bucks, SAC y canjear código), Amigos (gestión y lista blanca), TaxiBots y Biblioteca en hubs con pestañas.",
+            "Alertas STW: Alertas y Check de alertas en la misma sección; semana y Hora de poder en cards compactas con detalle al pulsar.",
+            "Alertas STW: modificadores siempre a la izquierda y flecha de expandir a la derecha; nombres de zona/misión/mods traducidos con emojis.",
+            "Alertas STW: descargar o copiar la imagen del tablero igual que en Discord `/alertas` (solo si hay un filtro activo).",
+            "Tienda STW: pestañas Tienda y Llamas. Tienda BR: tienda, filtraciones, secciones y reembolsos juntos.",
+            "Grupos: Dupe STW pasa a pestaña dentro de Grupos.",
+            "Misiones diarias: vista por cuenta o por misión, e opción de ocultar cuentas sin diarias.",
+            "Cabeceras de sección: sin imagen de banner; solo el nombre de la sección centrado.",
+            "Automatizaciones: los avisos se configuran en Configuraciones (launcher / Discord), no por mensaje directo de Mia.",
+            "Macro Recorder: grabación y reproducción de secuencias más fiables.",
+            "Auto Responder: interceptación del world-info más estable al aplicar archivos editados.",
+            "Modo streamer: en páginas sensibles puedes ocultar o mostrar el contenido sin perder el acceso."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.31",
       "date": "2026-09-01",
       "sections": [
