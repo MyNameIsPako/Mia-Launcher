@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "version": "0.1.34",
+      "date": "2026-09-24",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Auto Responder: vuelve la consola completa (banner, estado DNS, menú 1–5 e idiomas) y Preparar requisitos comprueba el proxy sin depender de Node.",
+            "Cambio de cuenta: al seleccionar otra cuenta Epic el cambio es inmediato (ya no espera a la comprobación de lista negra)."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Responder: el proxy vuelve a interceptar el world-info del Fortnite actual; si activas un file en el launcher, el JSON y la ruta llegan precargados.",
+            "Perfil STW (Taquilla): al cambiar de pestaña (Inventario, Esquemas, Héroes…) la carga es más rápida.",
+            "Inicio / menú: cambiar de cuenta o entrar en Perfil STW ya no se queda bloqueado por la API de lista negra."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.33",
       "date": "2026-09-23",
       "sections": [
