@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "version": "0.1.35",
+      "date": "2026-09-25",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Alertas STW: si la API falla o tarda (por ejemplo al cambiar el día), se mantiene el último tablero cargado en lugar de quedar en blanco; si no hay datos, verás un aviso con botón para actualizar.",
+            "Cuentas Epic: un fallo temporal de sesión EOS/EAS (presencia, party, etc.) ya no marca la cuenta como muerta ni la elimina del launcher; solo se quita si el inicio de sesión de dispositivo está realmente inválido."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.34",
       "date": "2026-09-24",
       "sections": [
