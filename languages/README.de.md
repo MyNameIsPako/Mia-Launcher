@@ -4,15 +4,15 @@
 
 ![Mia Launcher](../assest/mialauncher.png)
 
-**Desktop-Kontrollzentrum für Fortnite**  
-Rette die Welt, Battle Royale und Epic-Konten — integriert im [Mia](https://miadsc.xyz)-Ökosystem.
+**Dein Desktop-Begleiter für Fortnite**  
+Save-the-World-Alerts, mehrere Epic-Konten und nützliche Tools — alles an einem Ort, verbunden mit [Mia](https://miadsc.xyz).
 
 [![Latest release](https://img.shields.io/github/v/release/MyNameIsPako/Mia-Launcher?label=Version&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MyNameIsPako/Mia-Launcher/total?label=Downloads&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Windows](https://img.shields.io/badge/Plattform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/miabot)
 
-[**Download**](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) · [**Offizielle Website**](https://miadsc.xyz) · [**Discord**](https://discord.gg/miabot)
+[**Für Windows herunterladen**](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) · [**Website**](https://miadsc.xyz) · [**Discord**](https://discord.gg/miabot)
 
 **Sprache:** [Español](../README.md) · [English](README.en.md) · Deutsch · [Français](README.fr.md) · [Português (BR)](README.pt-BR.md) · [Türkçe](README.tr.md)
 
@@ -20,112 +20,93 @@ Rette die Welt, Battle Royale und Epic-Konten — integriert im [Mia](https://mi
 
 ---
 
-## Inhalt
+## Was ist Mia Launcher?
 
-- [Über Mia Launcher](#über-mia-launcher)
-- [Download](#download)
-- [Funktionen](#funktionen)
-- [Erste Schritte](#erste-schritte)
-- [Support](#support)
-- [Rechtlicher Hinweis](#rechtlicher-hinweis)
-- [Lizenz](#lizenz)
+Mia Launcher ist Mias offizielle Windows-App. Du bleibst bei **Rette die Welt** und **Battle Royale** auf dem Laufenden — ohne zwischen Websites und Discord zu springen: Alerts, Inventar, Epic-Konten und mehr, in einer klaren Oberfläche.
 
----
-
-## Über Mia Launcher
-
-Mia Launcher ist die offizielle Desktop-App von Mia für Fortnite-Spieler. STW-Alarme, Multi-Konto-Verwaltung, Kampagnen-Tools und Bot-Automatisierung — alles in einer Windows-Oberfläche.
-
-> Dieses Repository enthält **Installer und Release-Hinweise**. Der Anwendungscode wird hier nicht veröffentlicht.
+Sie arbeitet mit dem [Mia-Discord-Bot](https://miadsc.xyz) und der Website zusammen. Die Nutzung ist kostenlos; **Premium** schaltet Extras frei, wenn du das Projekt unterstützen möchtest.
 
 ---
 
 ## Download
 
-- **Plattform:** Windows 10 oder 11 (64-Bit)
-- **Installer:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (Bereich _Assets_ der neuesten Release)
-- **Alternative:** [miadsc.xyz](https://miadsc.xyz)
-
-<details>
-<summary><strong>Installation Schritt für Schritt</strong></summary>
+| | |
+| --- | --- |
+| **System** | Windows 10 oder 11 (64-Bit) |
+| **Datei** | `.exe`-Installer in der [aktuellen Version](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) |
+| **Auch** | Über [miadsc.xyz](https://miadsc.xyz) |
 
 1. Öffne [Releases → Latest](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest).
-2. Lade die `.exe` aus dem Bereich **Assets** herunter.
-3. Führe den Installer aus und schließe den Assistenten ab.
+2. Lade unter **Assets** den Installer herunter (`Mia-Launcher_…_x64-setup.exe`).
+3. Starte ihn und folge dem Assistenten.
 
-</details>
+**Schon installiert?** Du musst nichts erneut herunterladen — die App meldet neue Versionen und aktualisiert sich selbst.
 
-<details>
-<summary><strong>Updates</strong></summary>
-
-Wenn Mia Launcher bereits installiert ist, **musst du nicht neu installieren**. Die App erkennt neue Versionen und aktualisiert sich automatisch, sobald eine Release veröffentlicht wird.
-
-</details>
-
-### Voraussetzungen
+### Was du brauchst
 
 - Windows 10 oder 11 (64-Bit)
-- Stabile Internetverbindung
-- **Discord**-Konto (für die Anmeldung erforderlich)
-- **Epic Games**-Konto (für die meisten Funktionen erforderlich)
+- Internet
+- Ein **Discord**-Konto (zum Anmelden)
+- Ein **Epic-Games**-Konto (für die meisten Funktionen)
 
 ---
 
-## Funktionen
+## Was du machen kannst
 
 ### Rette die Welt
 
-Missionsalarme, STW-Shop, Tagesmissionen, Missionslogbuch, Inventar, Lamas, Homebase, MiaTaxi's und AutoKick.
+- Tägliche **Missions-Alerts** (V-Bucks, Supercharger, Power Hour…) mit Filtern und Bild-Download
+- **STW-Profil**: Homebase, Helden & Schemata (Waffenkammer), Inventar und Ressourcen
+- **Automatisierungen**: AutoKick, Expeditionen und mehr — pro Konto
+- Taxis, Tagesquests, Lamas und Kampagnen-Tools
 
 ### Battle Royale
 
-BR-Shop, Spind, V-Bucks und Epic-Serverstatus.
+- Täglicher Shop, Spind, V-Bucks und Serverstatus
 
-### Epic-Konten
+### Deine Konten
 
-Multi-Konto, Freunde, Support-a-Creator-Code (SAC), Code-Einlösung, EULA und Auth-Tools (Token, Exchange Code, Device Auth).
+- Mehrere Epic-Konten in einem Launcher
+- Sofort zwischen Konten wechseln
+- Freunde, Creator-Code und Code-Einlösung
 
-### Werkzeuge
+### Und mehr
 
-Spielersuche, MCP-Konsole, Epic-Bibliothek und Spieleinstallation.
-
-### Sprachen in der App
-
-Spanisch, Englisch, Deutsch, Französisch, Portugiesisch (BR) und Türkisch — in **Einstellungen** wählbar.
+- Spielersuche
+- Fortnite-Bibliothek & Installation
+- Die App in deiner Sprache (Spanisch, Englisch, Deutsch, Französisch, Italienisch, Portugiesisch, Türkisch, Japanisch, Chinesisch…)
 
 ---
 
 ## Erste Schritte
 
-1. Melde dich mit **Discord** an.
-2. Füge deine **Epic**-Konten hinzu.
-3. Erkunde **Start** (STW-Alarme) und die Seitenleiste.
+1. Öffne Mia Launcher und melde dich mit **Discord** an.
+2. Füge ein oder mehrere **Epic**-Konten hinzu.
+3. Auf der Startseite siehst du die **STW-Alerts**; die Seitenleiste führt zu allem anderen.
 
-Menüeinträge mit Schloss-Symbol erfordern ein aktives Epic-Konto.
+Einträge mit Schloss brauchen zuerst ein aktives Epic-Konto.
 
-> Unterstütze Mia mit **Premium** unter [miadsc.xyz/es/premium](https://miadsc.xyz/es/premium).
+Mehr Funktionen und Mia unterstützen? Schau dir [Premium](https://miadsc.xyz/es/premium) an.
 
 ---
 
-## Support
+## Hilfe
 
-- **Discord:** [discord.gg/miabot](https://discord.gg/miabot)
-- **Website:** [miadsc.xyz](https://miadsc.xyz)
+- Community: [discord.gg/miabot](https://discord.gg/miabot)
+- Website: [miadsc.xyz](https://miadsc.xyz)
 
-**Fehler melden:** Launcher-Version, Schritte zur Reproduktion und Screenshots angeben. Mit Debug-Logs (_Einstellungen_) auch die Ausgabe von **F12 → Console** beifügen.
+Wenn etwas nicht klappt, schreib uns auf Discord: **Launcher-Version**, was du gemacht hast und möglichst einen **Screenshot**. So finden wir die Lösung schneller.
 
 ---
 
 ## Rechtlicher Hinweis
 
-Mia Launcher ist **nicht mit Epic Games verbunden, von Epic Games unterstützt oder gesponsert**. Fortnite ist eine eingetragene Marke von Epic Games, Inc.
+Mia Launcher ist **nicht** mit Epic Games verbunden oder von Epic gesponsert. Fortnite® ist eine Marke von Epic Games, Inc.
 
-Automatisierung und Drittanbieter-Tools können gegen die Nutzungsbedingungen von Epic verstoßen. **Nutzung auf eigenes Risiko.**
+Drittanbieter-Tools können gegen die Nutzungsbedingungen von Epic verstoßen. Die Nutzung erfolgt auf eigene Verantwortung.
 
 ---
 
 ## Lizenz
 
-Mia Launcher ist **Closed-Source-Software**. Quellcode wird nicht veröffentlicht und steht nicht unter einer Open-Source-Lizenz.
-
-Dieses Repository enthält nur Releases, Release-Hinweise und Vertriebsressourcen. **Alle Rechte vorbehalten.**
+Mia Launcher ist proprietäre Software. Hier erscheinen nur Installer und Versionshinweise — **alle Rechte vorbehalten**.

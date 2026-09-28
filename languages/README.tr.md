@@ -4,15 +4,15 @@
 
 ![Mia Launcher](../assest/mialauncher.png)
 
-**Fortnite için masaüstü kontrol merkezi**  
-Save the World, Battle Royale ve Epic hesapları — [Mia](https://miadsc.xyz) ekosistemiyle entegre.
+**Fortnite için masaüstü yardımcın**  
+Save the World uyarıları, birden fazla Epic hesabı ve kullanışlı araçlar — hepsi bir yerde, [Mia](https://miadsc.xyz) ile bağlantılı.
 
 [![Latest release](https://img.shields.io/github/v/release/MyNameIsPako/Mia-Launcher?label=s%C3%BCr%C3%BCm&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest)
-[![İndirmeler](https://img.shields.io/github/downloads/MyNameIsPako/Mia-Launcher/total?label=indirmeler&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
+[![Downloads](https://img.shields.io/github/downloads/MyNameIsPako/Mia-Launcher/total?label=indirme&color=5865F2)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)](https://github.com/MyNameIsPako/Mia-Launcher/releases)
 [![Discord](https://img.shields.io/badge/Topluluk-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/miabot)
 
-[**İndir**](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) · [**Resmi site**](https://miadsc.xyz) · [**Discord**](https://discord.gg/miabot)
+[**Windows için indir**](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) · [**Web**](https://miadsc.xyz) · [**Discord**](https://discord.gg/miabot)
 
 **Dil:** [Español](../README.md) · [English](README.en.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Português (BR)](README.pt-BR.md) · Türkçe
 
@@ -20,112 +20,93 @@ Save the World, Battle Royale ve Epic hesapları — [Mia](https://miadsc.xyz) e
 
 ---
 
-## İçindekiler
+## Mia Launcher nedir?
 
-- [Hakkında](#hakkında)
-- [İndirme](#indirme)
-- [Özellikler](#özellikler)
-- [İlk adımlar](#ilk-adımlar)
-- [Destek](#destek)
-- [Yasal uyarı](#yasal-uyarı)
-- [Lisans](#lisans)
+Mia Launcher, Mia’nın resmi Windows uygulamasıdır. **Save the World** ve **Battle Royale**’i web veya Discord arasında gezmeden takip etmene yardımcı olur: uyarılar, envanter, Epic hesapları ve daha fazlası — net bir arayüzde.
 
----
-
-## Hakkında
-
-Mia Launcher, Fortnite oyuncuları için Mia'nın resmi masaüstü uygulamasıdır. STW uyarıları, çoklu hesap yönetimi, kampanya araçları ve bota bağlı otomasyon — hepsi tek bir Windows arayüzünde.
-
-> Bu depo yalnızca **yükleyiciler ve sürüm notları** içerir. Uygulama kaynak kodu burada dağıtılmaz.
+[Mia Discord botu](https://miadsc.xyz) ve web sitesiyle birlikte çalışır. Kullanımı ücretsizdir; projeyi desteklemek istersen **Premium** ekstra özellikler açar.
 
 ---
 
 ## İndirme
 
-- **Platform:** Windows 10 veya 11 (64 bit)
-- **Yükleyici:** [`Mia-Launcher_*_x64-setup.exe`](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) (en son sürümün _Assets_ bölümü)
-- **Alternatif:** [miadsc.xyz](https://miadsc.xyz)
-
-<details>
-<summary><strong>Adım adım kurulum</strong></summary>
+| | |
+| --- | --- |
+| **Sistem** | Windows 10 veya 11 (64 bit) |
+| **Dosya** | [Son sürümdeki](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) `.exe` kurulum dosyası |
+| **Ayrıca** | [miadsc.xyz](https://miadsc.xyz) üzerinden |
 
 1. [Releases → Latest](https://github.com/MyNameIsPako/Mia-Launcher/releases/latest) sayfasını aç.
-2. **Assets** bölümünden `.exe` dosyasını indir.
-3. Yükleyiciyi çalıştır ve sihirbazı tamamla.
+2. **Assets** bölümünden kurucuyu indir (`Mia-Launcher_…_x64-setup.exe`).
+3. Çalıştırıp sihirbazı takip et.
 
-</details>
+**Zaten kurulu mu?** Tekrar indirmene gerek yok — uygulama yeni sürümü bildirir ve kendi kendini günceller.
 
-<details>
-<summary><strong>Güncellemeler</strong></summary>
-
-Mia Launcher zaten yüklüyse **yeniden kurmana gerek yok**. Uygulama yeni sürümleri algılar ve bir release yayınlandığında kendini günceller.
-
-</details>
-
-### Gereksinimler
+### İhtiyacın olanlar
 
 - Windows 10 veya 11 (64 bit)
-- Kararlı internet bağlantısı
-- **Discord** hesabı (giriş için zorunlu)
-- **Epic Games** hesabı (çoğu özellik için gerekli)
+- İnternet
+- **Discord** hesabı (giriş için)
+- **Epic Games** hesabı (çoğu özellik için)
 
 ---
 
-## Özellikler
+## Neler yapabilirsin
 
 ### Save the World
 
-Görev uyarıları, STW mağazası, günlük görevler, görev kaydı, envanter, lamalar, homebase, MiaTaxi's ve AutoKick.
+- Günün **görev uyarıları** (V-Bucks, süper şarj, Güç Saati…) filtreler ve görsel indirme ile
+- **STW profili**: homebase, kahramanlar ve şemalar (cephanelik), envanter ve kaynaklar
+- **Otomasyonlar**: AutoKick, seferler ve daha fazlası — hesap başına
+- Taksiler, günlükler, lamalar ve kampanya araçları
 
 ### Battle Royale
 
-BR mağazası, dolap, V-Bucks ve Epic sunucu durumu.
+- Günün mağazası, dolap, V-Bucks ve sunucu durumu
 
-### Epic hesapları
+### Hesapların
 
-Çoklu hesap, arkadaşlar, destek kodu (SAC), kod kullanımı, EULA ve auth araçları (token, exchange code, device auth).
+- Aynı launcher’da birden fazla Epic hesabı
+- Anında hesap değiştirme
+- Arkadaşlar, yaratıcı kodu ve kod kullanma
 
-### Araçlar
+### Ve daha fazlası
 
-Oyuncu arama, MCP konsolu, Epic kütüphanesi ve oyun kurulumu.
-
-### Uygulama dilleri
-
-İspanyolca, İngilizce, Almanca, Fransızca, Portekizce (BR) ve Türkçe — **Ayarlar**'dan değiştirilebilir.
-
----
-
-## İlk adımlar
-
-1. **Discord** ile giriş yap.
-2. **Epic** hesaplarını ekle.
-3. **Ana sayfa**yı (STW uyarıları) ve yan menüyü keşfet.
-
-Kilit simgeli menü öğeleri aktif bir Epic hesabı gerektirir.
-
-> Mia'yı [miadsc.xyz/es/premium](https://miadsc.xyz/es/premium) adresinden **Premium** olarak destekle.
+- Oyuncu arama
+- Fortnite kütüphanesi ve kurulum
+- Uygulama dilin (İspanyolca, İngilizce, Almanca, Fransızca, İtalyanca, Portekizce, Türkçe, Japonca, Çince…)
 
 ---
 
-## Destek
+## Başlarken
 
-- **Discord:** [discord.gg/miabot](https://discord.gg/miabot)
-- **Site:** [miadsc.xyz](https://miadsc.xyz)
+1. Mia Launcher’ı aç ve **Discord** ile giriş yap.
+2. Bir veya daha fazla **Epic** hesabı ekle.
+3. Ana sayfada **STW uyarılarını** görürsün; yan menü geri kalanına götürür.
 
-**Hata bildirimi:** launcher sürümü, yeniden oluşturma adımları ve ekran görüntüleri ekle. Hata ayıklama günlükleri açıksa (_Ayarlar_), **F12 → Console** çıktısını da ekle.
+Kilitli menü öğeleri için önce aktif bir Epic hesabı seç.
+
+Daha fazla özellik ve Mia’yı desteklemek ister misin? [Premium](https://miadsc.xyz/es/premium)’a bak.
+
+---
+
+## Yardım
+
+- Topluluk: [discord.gg/miabot](https://discord.gg/miabot)
+- Web: [miadsc.xyz](https://miadsc.xyz)
+
+Bir şey bozulursa Discord’da yaz: launcher **sürümü**, ne yaptığın ve mümkünse bir **ekran görüntüsü**. Böyle daha hızlı çözeriz.
 
 ---
 
 ## Yasal uyarı
 
-Mia Launcher **Epic Games ile bağlantılı, onaylı veya sponsorlu değildir**. Fortnite, Epic Games, Inc.'in tescilli markasıdır.
+Mia Launcher Epic Games ile **bağlı değildir** ve Epic tarafından desteklenmez. Fortnite®, Epic Games, Inc.’in ticari markasıdır.
 
-Otomasyon ve üçüncü taraf araçlar Epic'in hizmet şartlarını ihlal edebilir. **Uygulamayı kendi sorumluluğunuzda kullanın.**
+Üçüncü taraf araçlar Epic’in kullanım şartlarına aykırı olabilir. Uygulamayı kendi sorumluluğunuzda kullanın.
 
 ---
 
 ## Lisans
 
-Mia Launcher **kapalı kaynaklı** yazılımdır. Kaynak kodu dağıtılmaz ve açık kaynak lisansı altında sunulmaz.
-
-Bu depo yalnızca release'ler, sürüm notları ve dağıtım kaynaklarını içerir. **Tüm hakları saklıdır.**
+Mia Launcher tescilli yazılımdır. Bu depoda yalnızca kurucu ve sürüm notları yayınlanır — **tüm hakları saklıdır**.
