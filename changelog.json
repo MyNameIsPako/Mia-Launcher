@@ -1,6 +1,25 @@
 {
   "entries": [
     {
+      "version": "0.1.36",
+      "date": "2026-09-29",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Aventuras: nueva sección en Salvar el Mundo con la temporada actual (fechas y arte), tu nivel y XP, zonas por poder, tabla de recompensas 1–50 y el calendario de ciclos."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Aventuras: las líneas de misiones siguen el mismo criterio que `/aventuras` en Discord (emojis por categoría, objetivos en tu idioma e iconos de recompensa, p. ej. oro y XP).",
+            "Aventuras: cada misión muestra qué da al completarla, con cards más claras (progreso, estado y recompensas)."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.35",
       "date": "2026-09-25",
       "sections": [
