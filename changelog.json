@@ -1,6 +1,33 @@
 {
   "entries": [
     {
+      "version": "0.1.37",
+      "date": "2026-09-30",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Perfil BR: estadísticas de Battle Royale, sumario de temporada e info de la cuenta en una sola sección.",
+            "Taquilla → Equipos de héroe: mira y cambia el loadout activo, y descarga o copia la imagen del equipo con la marca de agua de Mia.",
+            "Buscar jugadores: pestañas de stats BR e info Otros (cuentas linkeadas y registro en Mia)."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Tienda STW: el catálogo muestra toda la rotación y la tienda de evento (paquetes de esquemas, héroes, Espacio de arsenal y más).",
+            "Tienda STW: iconos correctos para Espacio de arsenal (caja fuerte), paquetes de esquemas y tickets de evento; la cabecera muestra también el saldo de tickets de evento."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Tienda STW: las cartas ya no quedan en blanco ni usan el icono genérico de carpeta cuando falta la imagen en el CDN."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.36",
       "date": "2026-09-29",
       "sections": [
