@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.38",
+      "date": "2026-10-10",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Inicio: Mia Market pasa a ser El Kiosko, con el logo y el color de marca nuevos."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.37",
       "date": "2026-09-30",
       "sections": [
