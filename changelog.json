@@ -1,6 +1,25 @@
 {
   "entries": [
     {
+      "version": "0.1.39",
+      "date": "2026-10-19",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Iniciar Fortnite: el botón del header vuelve a arrancar el juego con tu cuenta.",
+            "Iniciar Fortnite: ya no falla al usar el Epic Games Launcher nuevo"
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Instalación de Fortnite: se detecta también con el launcher nuevo de Epic (eglv2 / installations) y rutas típicas de Program Files, además del game path en Ajustes."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.38",
       "date": "2026-10-10",
       "sections": [
