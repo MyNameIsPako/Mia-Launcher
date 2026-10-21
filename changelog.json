@@ -10,13 +10,17 @@
             "Iniciar Fortnite: funciona con el Epic Games Launcher clásico y con el nuevo.",
             "Actualizar / descargar Fortnite: vuelve a instalar y actualizar cuando el juego ya está en el PC (también con el launcher nuevo de Epic).",
             "Actualizar Mia Launcher: la descarga e instalación ya no se cortan a mitad en Windows.",
-            "Actualizar Mia Launcher: la barra de porcentaje avanza durante la descarga."
+            "Actualizar Mia Launcher: la barra de porcentaje avanza durante la descarga.",
+            "Biblioteca: con el Epic Games Launcher nuevo los juegos vuelven a listarse (ya no se queda cargando).",
+            "Fortnite: ya no propone actualizar si Epic ya lo tiene al día.",
+            "Fortnite: el tamaño en disco coincide con el del Epic Games Launcher (no muestra cientos de MB por error)."
           ]
         },
         {
           "title": "Mejoras",
           "items": [
-            "Fortnite: se detecta la instalación también desde la lista clásica de Epic (LauncherInstalled) y en discos distintos a C:."
+            "Fortnite: se detecta la instalación también desde la lista clásica de Epic (LauncherInstalled) y en discos distintos a C:.",
+            "Biblioteca: compatible con el Epic Games Launcher clásico y con el nuevo (eglv2)."
           ]
         }
       ]
