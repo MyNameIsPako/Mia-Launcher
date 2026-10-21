@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "version": "0.1.41",
+      "date": "2026-10-21",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Rendimiento: la biblioteca carga más rápido y deja de quedarse en carga innecesaria.",
+            "Rendimiento: menos bloqueos al detectar juegos instalados y al refrescar la lista."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.40",
       "date": "2026-10-21",
       "sections": [
