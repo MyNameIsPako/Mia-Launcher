@@ -1,6 +1,25 @@
 {
   "entries": [
     {
+      "version": "0.1.42",
+      "date": "2026-11-04",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Herramientas → Auto Queue: reencola Fortnite solo (Jugar, Continuar, Omitir y Volver al lobby) desde el propio Launcher.",
+            "Auto Queue: modos partida completa o solo isla, aviso de que Fortnite debe estar en inglés y de que las macros van contra la TOS de Epic."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Auto Queue: preparar e iniciar sin congelar el Launcher; textos en todos los idiomas del Launcher."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.41",
       "date": "2026-10-21",
       "sections": [
