@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "version": "0.1.43",
+      "date": "2026-11-05",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: Preparar ya no falla en Entorno en la mayoría de PCs (carpeta de instalación de solo lectura o Python de Microsoft Store).",
+            "Auto Queue: el entorno se crea en AppData cuando hace falta, y pide Python de python.org (Add to PATH) si solo está el acceso directo de Store.",
+            "Espíritus: las sesiones pasadas (C7 S3 / C7 S4) vuelven a listar resultados al filtrar por temporada."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.42",
       "date": "2026-11-04",
       "sections": [
