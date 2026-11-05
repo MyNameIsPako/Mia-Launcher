@@ -9,7 +9,9 @@
           "items": [
             "Auto Queue: Preparar ya no falla en Entorno en la mayoría de PCs (carpeta de instalación de solo lectura o Python de Microsoft Store).",
             "Auto Queue: el entorno se crea en AppData cuando hace falta, y pide Python de python.org (Add to PATH) si solo está el acceso directo de Store.",
-            "Espíritus: las sesiones pasadas (C7 S3 / C7 S4) vuelven a listar resultados al filtrar por temporada."
+            "Espíritus: las sesiones pasadas (C7 S3 / C7 S4) vuelven a listar resultados al filtrar por temporada.",
+            "Actualizar / reinstalar: ya no falla al sobrescribir legendary.exe si seguía en uso.",
+            "Auto Queue: Detener vuelve a aparecer mientras corre, y la actividad muestra nombres claros (Jugar, Continuar, modos, etc.)."
           ]
         }
       ]
