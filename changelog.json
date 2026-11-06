@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "version": "0.1.44",
+      "date": "2026-11-06",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Auto Queue: al Iniciar pide administrador (UAC) solo para el worker, como Auto Responder, sin elevar todo el Launcher.",
+            "Auto Queue: panel más claro (aviso TOS siempre visible, Preparar solo la primera vez, estado sin chips duplicados de vueltas).",
+            "Auto Queue: al Detener el estado pasa a Deteniendo, y las vueltas solo se muestran cuando hay alguna."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: Iniciar ya no deja el worker colgado por Acceso denegado al escribir el estado (conflicto de permisos con el proceso elevado).",
+            "Auto Queue: los cambios del tool dejan de revertirse solos al refrescar el estado en el Launcher."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.43",
       "date": "2026-11-05",
       "sections": [
@@ -11,7 +32,8 @@
             "Auto Queue: el entorno se crea en AppData cuando hace falta, y pide Python de python.org (Add to PATH) si solo está el acceso directo de Store.",
             "Espíritus: las sesiones pasadas (C7 S3 / C7 S4) vuelven a listar resultados al filtrar por temporada.",
             "Actualizar / reinstalar: ya no falla al sobrescribir legendary.exe si seguía en uso.",
-            "Auto Queue: Detener vuelve a aparecer mientras corre, y la actividad muestra nombres claros (Jugar, Continuar, modos, etc.)."
+            "Auto Queue: Detener vuelve a aparecer mientras corre, y la actividad muestra nombres claros (Jugar, Continuar, modos, etc.).",
+            "Auto Queue: vuelve a enfocar Fortnite para el anti-AFK y los clics, así el bucle no se corta al entrar en partida."
           ]
         }
       ]
