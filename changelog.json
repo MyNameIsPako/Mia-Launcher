@@ -7,7 +7,8 @@
         {
           "title": "Correcciones",
           "items": [
-            "Auto Queue: alineado con modo A (sin Esc de atasco ni avisos Discord de atasco entre partidas)."
+            "Auto Queue: alineado con modo A (sin Esc de atasco ni avisos Discord de atasco entre partidas).",
+            "Auto Queue: Preparar vuelve a ser automático al abrir el panel y al Iniciar (ya no pide Preparar a mano con un estado listo falso)."
           ]
         }
       ]
