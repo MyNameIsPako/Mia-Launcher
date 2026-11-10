@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.47",
+      "date": "2026-11-10",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: el entorno de Python se crea en el PC del usuario; ya no se reutiliza uno ajeno del instalador."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.46",
       "date": "2026-11-10",
       "sections": [
