@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.46",
+      "date": "2026-11-10",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: los avisos de Discord (atasco, errores y tesoros) vuelven a enviarse correctamente."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.45",
       "date": "2026-11-10",
       "sections": [
