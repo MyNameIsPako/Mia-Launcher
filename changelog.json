@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.48",
+      "date": "2026-11-10",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: alineado con modo A (sin Esc de atasco ni avisos Discord de atasco entre partidas)."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.47",
       "date": "2026-11-10",
       "sections": [
