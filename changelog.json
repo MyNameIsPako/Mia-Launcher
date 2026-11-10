@@ -1,15 +1,50 @@
 {
   "entries": [
     {
+      "version": "0.1.45",
+      "date": "2026-11-10",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Herramientas → Treasure Counter: cuenta cofres y tesoros de tus repeticiones de Fortnite, con panel en el Launcher y overlay en partida.",
+            "Treasure Counter: opción de iniciar con Fortnite (si Mia Launcher está abierto) y detenerse poco después de cerrar el juego.",
+            "Treasure Counter: tesoros del equipo en BETA (mostrar u ocultar), también en el overlay encima de la estrella.",
+            "Menú lateral: click derecho para fijar o desfijar comandos y categorías; lo fijado aparece arriba del todo.",
+            "También puedes fijar pestañas de hubs (Herramientas, Automatizaciones, Taquilla, Alertas y más) a la barra de fijados."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Treasure Counter: overlay con el diseño HUD transparente (cofre, totales, sesión y estrella), compacto y movible.",
+            "Treasure Counter: al actualizar, las repeticiones que sigan en el PC se analizan de nuevo y los contadores se ajustan.",
+            "Treasure Counter: el overlay muestra los totales de fila como x0, x3, etc., con espacio claro entre etiqueta y valor.",
+            "Treasure Counter: badge BETA de tesoros del equipo al estilo compacto de Resistencias AFK."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Treasure Counter: recuento de cofres corregido en casos donde fallaba.",
+            "Treasure Counter: el overlay ya no muestra puntos raros en lugar de los valores xN."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.44",
-      "date": "2026-11-06",
+      "date": "2026-11-09",
       "sections": [
         {
           "title": "Mejoras",
           "items": [
             "Auto Queue: al Iniciar pide administrador (UAC) solo para el worker, como Auto Responder, sin elevar todo el Launcher.",
             "Auto Queue: panel más claro (aviso TOS siempre visible, Preparar solo la primera vez, estado sin chips duplicados de vueltas).",
-            "Auto Queue: al Detener el estado pasa a Deteniendo, y las vueltas solo se muestran cuando hay alguna."
+            "Auto Queue: al Detener el estado pasa a Deteniendo, y las vueltas solo se muestran cuando hay alguna.",
+            "Auto Queue: avisos Discord con webhook fijo de Mia (solo activar/desactivar; por defecto on) si se atasca, hay error o detecta un tesoro.",
+            "Auto Queue: detector de tesoros/recompensas en pantalla (beta) y contador de sesión.",
+            "Auto Queue: anti-AFK con ráfagas WASD más naturales, toques laterales y un poco de ratón; Esc automático si se queda atascado."
           ]
         },
         {
