@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "version": "0.1.49",
+      "date": "2026-11-11",
+      "sections": [
+        {
+          "title": "Mejoras",
+          "items": [
+            "Seguridad: el Launcher de producción va más protegido (menos fácil de analizar o manipular desde fuera).",
+            "Auto Queue: Iniciar pide permiso de administrador de forma fiable y el worker arranca en segundo plano, sin flash de ventana negra.",
+            "Cuentas Epic: en Windows los datos sensibles de cuentas se guardan cifrados para el usuario de este PC."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Treasure Counter: ya no abre ventanas de consola cada pocos segundos; solo analiza cuando hay repeticiones nuevas.",
+            "Auto Queue: el aviso de administrador ya no se queda sin aparecer, ni deja el arranque a medias tras un flash."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.48",
       "date": "2026-11-10",
       "sections": [
