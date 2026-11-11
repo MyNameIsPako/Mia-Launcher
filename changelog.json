@@ -1,6 +1,29 @@
 {
   "entries": [
     {
+      "version": "0.1.50",
+      "date": "2026-11-11",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Auto Queue: overlay en pantalla con estado en vivo (verde en marcha, rojo detenido), vueltas y tesoros, pensado para un solo monitor.",
+            "Auto Queue: panel de regiones recomendadas junto a Ayuda, con horario adaptado a tu zona y textos en todos los idiomas.",
+            "Auto Queue: aviso en el panel al encontrar un tesoro; se queda hasta que lo cierres tú.",
+            "Treasure Counter: descarga o copia la imagen del resumen desde el propio panel, con marca Mia y fecha de captura."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Auto Queue: el overlay se mueve, se bloquea (clic atraviesa) y se oculta con atajos; usa pantalla completa en ventana en Fortnite.",
+            "Treasure Counter: chips de fecha y tarjeta de tesoros del equipo más claros; opciones de contar munición, comida y cañones como cofre mejor presentadas.",
+            "Treasure Counter: la imagen compartible usa icono de Epic y el estilo de marca de Treasure Counter, sin URL de perfil de más."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.49",
       "date": "2026-11-11",
       "sections": [
