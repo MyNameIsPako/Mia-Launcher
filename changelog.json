@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "version": "0.1.51",
+      "date": "2026-11-12",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Treasure Counter: horas del tesoro destacadas encima del resumen (fuera de la imagen para compartir).",
+            "Treasure Counter: historial de hallazgos con lista clara (tesoro, momento y origen), Tuyos y Equipo.",
+            "Auto Queue: actividad con hora, emoji y texto de color para seguir qué está haciendo de un vistazo."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Treasure Counter: panel más ordenado (Pantalla y Conteo colapsados, Temporada y Registro junto a Descargar).",
+            "Treasure Counter: overlay con Cofres eq. y Tesoros eq. bien diferenciados; Equipo en lugar de Escuadra.",
+            "Auto Queue: la actividad muestra Modo Inteligencia o Personalizar, y ya no repite el mismo mensaje dos veces."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.50",
       "date": "2026-11-11",
       "sections": [
