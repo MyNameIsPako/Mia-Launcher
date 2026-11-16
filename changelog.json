@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "version": "0.1.52",
+      "date": "2026-11-16",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Auto Queue: calibrar botones (Capturar la zona en pantalla si no detecta bien Jugar, Continuar, Reclamar y más).",
+            "Treasure Counter: Actualizar para volver a leer tus repeticiones sin reiniciar el contador.",
+            "Treasure Counter: lista de partidas BR (cofres, puesto y elims), filtro por perfil y exportar CSV."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Treasure Counter: Desde y Mejor día muestran la fecha al lado del título.",
+            "Espíritus: cartas más claras e imágenes que cargan bien (con respaldo si falla la primera URL).",
+            "Diarias: los nombres de misión se ven en tu idioma del Launcher.",
+            "Avisos: aparecen arriba a la derecha, debajo de la barra, sin tapar botones."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Diarias: ya no salen misiones en blanco en algunos idiomas.",
+            "Espíritus: se corrigen sprites rotos o vacíos al abrir el panel."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.51",
       "date": "2026-11-12",
       "sections": [
