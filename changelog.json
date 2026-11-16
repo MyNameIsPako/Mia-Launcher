@@ -9,13 +9,16 @@
           "items": [
             "Auto Queue: calibrar botones (Capturar la zona en pantalla si no detecta bien Jugar, Continuar, Reclamar y más).",
             "Treasure Counter: Actualizar para volver a leer tus repeticiones sin reiniciar el contador.",
-            "Treasure Counter: lista de partidas BR (cofres, puesto y elims), filtro por perfil y exportar CSV."
+            "Treasure Counter: lista de partidas BR (cofres, puesto y elims), filtro por perfil y exportar CSV.",
+            "Treasure Counter: ajuste manual con Sumar, Restar y Restablecer (extra encima de las repeticiones)."
           ]
         },
         {
           "title": "Mejoras",
           "items": [
+            "Auto Queue: funciona otra vez con Amazon Luna y otras ventanas (no solo Fortnite nativo).",
             "Treasure Counter: Desde y Mejor día muestran la fecha al lado del título.",
+            "Treasure Counter: textos de partidas y modos traducidos (sin claves crudas ni ids de playlist).",
             "Espíritus: cartas más claras e imágenes que cargan bien (con respaldo si falla la primera URL).",
             "Diarias: los nombres de misión se ven en tu idioma del Launcher.",
             "Avisos: aparecen arriba a la derecha, debajo de la barra, sin tapar botones."
@@ -24,6 +27,8 @@
         {
           "title": "Correcciones",
           "items": [
+            "Auto Queue: deja de bloquear clics si Fortnite nativo no está enfocado; umbral de Jugar y escalas DPI como antes.",
+            "Treasure Counter: el ajuste manual ya no baja de 0 ni muestra valores negativos.",
             "Diarias: ya no salen misiones en blanco en algunos idiomas.",
             "Espíritus: se corrigen sprites rotos o vacíos al abrir el panel."
           ]
