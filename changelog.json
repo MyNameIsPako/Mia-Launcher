@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.1.54",
+      "date": "2026-11-17",
+      "sections": [
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: Volver al lobby vuelve a pulsar bien tras Skip (como antes)."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.53",
       "date": "2026-11-17",
       "sections": [
