@@ -1,6 +1,33 @@
 {
   "entries": [
     {
+      "version": "0.1.53",
+      "date": "2026-11-17",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Ajustes avanzados: Ver y Copiar el registro de depuración dentro del Launcher (solo errores, sin datos sensibles)."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Biblioteca: con el nuevo Epic Games Launcher, Fortnite se detecta instalado, con actualización y tamaño reales.",
+            "Biblioteca: el tamaño de Fortnite muestra el peso real en disco (no el dato incompleto de Epic).",
+            "Auto Queue: mensajes de actividad traducidos y más claros en el idioma del Launcher."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Auto Queue: Iniciar y Detener ya no se quedan pillados; Detener responde al momento.",
+            "Biblioteca: Fortnite ya no aparece sin instalar o con actualización falsa tras el cambio al launcher de Epic."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.52",
       "date": "2026-11-16",
       "sections": [
