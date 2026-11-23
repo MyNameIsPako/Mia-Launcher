@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "version": "0.1.55",
+      "date": "2026-11-23",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Partida · Dupe: Buguear base con un toque (Mia mueve el mando por ti).",
+            "Partida · Dupe: pestaña Dupe otra vez en Partida, con cuenta y modo forzar."
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Partida y AutoKick: Expulsar sale de la misión como MiaKick (más fiable al acabar la partida).",
+            "Taxis privados: ya no se van al pasar de BR a STW; salen al entrar en la misión o en una partida.",
+            "Buguear base: texto corto (quédate en misiones; lo demás lo hace Mia) y panel más claro."
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Expulsar: avisa si no estás en grupo o la cuenta kick no está lista o no es amiga.",
+            "Buguear base: la flecha arriba responde bien; el Launcher se minimiza y no se cierra ni tapa Fortnite."
+          ]
+        }
+      ]
+    },
+    {
       "version": "0.1.54",
       "date": "2026-11-17",
       "sections": [
